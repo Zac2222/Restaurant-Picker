@@ -1,4 +1,5 @@
-﻿
+﻿// Reviewed: Patrick De Leon
+// Comment: I like how clean and easy this looks. I love that "pizza but dining" restaurant lol 
 
 bool isNumber;
 int userNum;
