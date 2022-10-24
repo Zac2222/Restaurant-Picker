@@ -1,0 +1,15 @@
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\bin\Debug\net6.0\Restaurant-Picker.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\bin\Debug\net6.0\Restaurant-Picker.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\bin\Debug\net6.0\Restaurant-Picker.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\bin\Debug\net6.0\Restaurant-Picker.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\bin\Debug\net6.0\Restaurant-Picker.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\Restaurant-Picker.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\Restaurant-Picker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\Restaurant-Picker.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\Restaurant-Picker.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\Restaurant-Picker.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\Restaurant-Picker.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\refint\Restaurant-Picker.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\Restaurant-Picker.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\Restaurant-Picker.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\Projects\GitHubChallenges\RestaurantPicker\Restaurant-Picker\obj\Debug\net6.0\ref\Restaurant-Picker.dll
